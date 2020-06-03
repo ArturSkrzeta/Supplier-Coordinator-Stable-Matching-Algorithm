@@ -1,2 +1,2 @@
 <p>Outcome:</p>
-<img src="images/outcome.JPG", height="400", width="200">
+<img src="images/outcome.JPG", height="480", width="280">
