@@ -10,7 +10,7 @@
   <li>Script uses random library to shuffle prefrerences for each party</li>
   <li>Script matches coordinator-suppliers pairs according to their preferences list</li>
   <li>
-    Script continues matching and breaking matches till we have all the parties matched up and no one from the pairs has better preffered       option - its called stable match.
+    Script continues matching and breaking matches till we have all the parties matched up and no one from the pairs has better preffered       option - its called a stable match
   </li>
 </ul>
 
