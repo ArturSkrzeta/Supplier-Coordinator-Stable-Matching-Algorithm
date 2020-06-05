@@ -7,8 +7,10 @@ Given n men and n women, where each person has ranked all members of the opposit
 
 <p>Script explanation:</p>
 <ul>
-  <li>6 Project Coordinators</li>
-  <li>6 Suppliers</li>
+  <li>The company have launched 6 new projects. For each project there were cooridnator assigned who need to choose a supplier to cowork with.
+  </li>
+  <li>In example there are 6 Project Coordinators</li>
+  <li>In ecample there are 6 Suppliers</li>
   <li>Each single coordinator and supplier is called 'party' in the script</li>
   <li>Number of parties can be set in the script</li>
   <li>Constraints: number of coordinators = number of suppliers</li>
