@@ -7,12 +7,12 @@
   <li>Constraints: number of coordinators = number of suppliers</li>
   <li>Each party has its own 6 items list of preferences</li>
   <li>
-    Project Coordinators chooses preffered Suppliers in the descending order of preference starting from the most preffred one and vice         versa
+    Project Coordinators chooses preffered Suppliers in the descending order of preference starting from the most preffred one and vice versa
   </li>
   <li>Script uses random library to shuffle prefrerences for each party</li>
   <li>Script matches coordinator-suppliers pairs according to their preferences list</li>
   <li>
-    Script continues matching and breaking matches till we have all the parties matched up and no one from the pairs has better preffered       option - its called a stable match
+    Script continues matching and breaking matches till we have all the parties matched up and, what is most important, no one from the pairs has better preffered option - it's called a stable match
   </li>
 </ul>
 
