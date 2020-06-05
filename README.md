@@ -1,4 +1,4 @@
-<p>The idea was derived from Stable Marriage Problem</p>
+<p>The idea was derived from <b>Stable Marriage Problem</b></p>
 <p>Due to wikipedia</p>
 <p><i>
 The stable marriage problem has been stated as follows:</br>
