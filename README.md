@@ -32,3 +32,13 @@ Given n men and n women, where each person has ranked all members of the opposit
   </li>
 </ul>
 
+<p>Conclusions:</p>
+<ul>
+  <li>Supplier S4 and S5 were the most preferred suppliers to co-work with among the coordinaotrs</li>
+  <li>Due to randomness suppliers have a big difference of the most preffered coordinator to co-work with</li>
+  <li>Script needed to break 5 paris in order to assign parties to better options</li>
+  <li>Script matched all parites successfully ensuring stable match</li>
+</ul>
+
+
+
