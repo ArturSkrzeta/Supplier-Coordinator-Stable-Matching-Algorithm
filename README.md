@@ -7,7 +7,7 @@ The stable marriage problem has been stated as follows:</br>
 Given n men and n women, where each person has ranked all members of the opposite sex in order of preference, marry the men and women together such that there are no two people of opposite sex who would both rather have each other than their current partners. When there are no such pairs of people, the set of marriages is deemed stable.
 </i></p>
 
-<p>Script explanation:</p>
+<h3>Demo</h3>
 <ul>
   <li>The company have launched 6 new projects. For each project there were cooridnators assigned to who need to choose one supplier to co-work with.
   </li>
@@ -27,12 +27,7 @@ Given n men and n women, where each person has ranked all members of the opposit
   </li>
 </ul>
 
-<h3>Demo</h3>
-<ul>
-  <li>
-    <img src="images/outcome.JPG", height="480", width="280">
-  </li>
-</ul>
+<img src="images/outcome.JPG", height="480", width="280">
 
 <h3>Insights</h3>
 <ul>
