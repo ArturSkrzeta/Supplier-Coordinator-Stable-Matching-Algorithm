@@ -1,3 +1,5 @@
+<h2>Supplier-Coordinator Stable Matchin Algorithm</h2>
+<h3>Intro</h3>
 <p>The idea was derived from <b>Stable Marriage Problem.</b></p>
 <p>Due to wikipedia:</p>
 <p><i>
@@ -25,14 +27,14 @@ Given n men and n women, where each person has ranked all members of the opposit
   </li>
 </ul>
 
-<p>Outcome:</p>
+<h3>Demo</h3>
 <ul>
   <li>
     <img src="images/outcome.JPG", height="480", width="280">
   </li>
 </ul>
 
-<p>Conclusions:</p>
+<h3>Insights</h3>
 <ul>
   <li>Supplier S4 and S5 were the most preferred suppliers to co-work with among the coordinaotrs.</li>
   <li>Due to randomness suppliers have a big difference of the most preffered coordinator to co-work with.</li>
