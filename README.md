@@ -27,7 +27,7 @@ Given n men and n women, where each person has ranked all members of the opposit
   </li>
 </ul>
 
-<img src="images/outcome.JPG" height="440" width="280">
+<img src="images/outcome.JPG" height="400" width="280">
 
 <h3>Insights</h3>
 <ul>
