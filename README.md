@@ -1,4 +1,4 @@
-<h2>Supplier-Coordinator Stable Matchin Algorithm</h2>
+<h2>Supplier-Coordinator Stable Matching Algorithm</h2>
 <h3>Intro</h3>
 <p>The idea was derived from <b>Stable Marriage Problem.</b></p>
 <p>Due to wikipedia:</p>
