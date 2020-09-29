@@ -1,0 +1,137 @@
+	<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Portfolio Artur Skrzeta</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/avatar.png" alt="" /></span>
+					<h1 id="logo"><a href="#">Artur Skrzeta</a></h1>
+					<p>Data Analyst<br />
+					+4 years experience</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">Intro</a></li>
+						<li><a href="#two">Features</a></li>
+						<li><a href="#three">Demo</a></li>
+						<li><a href="#four">Setup</a></li>
+						<li><a href="#five">Source Code</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="https://www.linkedin.com/in/artur-skrz%C4%99ta-010b23187/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://www.instagram.com/arturskrrr/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://github.com/ArturSkrzeta" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="mailto: arturskrzeta@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="container">
+									<header class="major">
+										<h2>Stable Match Algorithm in Procurement</h2>
+										<h3>Intro</h3>
+										<p>Both Suppliers and Project Coordinators have their own preferences against each other.
+											Algorithm helps to match a coordinator with a supplier so that all the partnerships could remain stable and bring mutual benefit.</p>
+										<p>The idea was derived from <b>Stable Marriage Problem.</b></p>
+										<p>Due to wikipedia:</p>
+										<p><i>
+										The stable marriage problem has been stated as follows:</br>
+										Given n men and n women, where each person has ranked all members of the opposite sex in order of preference, marry the men and women together such that there are no two people of opposite sex who would both rather have each other than their current partners. When there are no such pairs of people, the set of marriages is deemed stable.
+										</i></p>
+									</header>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="container">
+									<h3>Features</h3>
+									<p>App includes following features:</p>
+									<ul class="feature-icons">
+										<li class="icon solid fa-check">VBA</li>
+									</ul>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Demo</h3>
+									<ul>
+									  <li>The company have launched 6 new projects. For each project there were cooridnators assigned to who need to choose one supplier to co-work with.</li>
+									  <li>In the example there are 6 Project Coordinators.</li>
+									  <li>In the example there are 6 Suppliers.</li>
+									  <li>Each single coordinator and supplier is called 'party' in the script.</li>
+									  <li>Number of parties can be set in the script.</li>
+									  <li>Constraints: number of coordinators = number of suppliers.</li>
+									  <li>Each party has its own 6 items list of preferences.</li>
+									  <li>Project Coordinators chooses preffered Suppliers in the descending order of preference starting from the most preffred one and vice versa.</li>
+									  <li>Script uses random library to shuffle prefrerences for each party.</li>
+									  <li>Script matches coordinator-suppliers pairs according to their preferences list.</li>
+									  <li>Script continues matching and breaking matches till we have all the parties matched up and, what is most important, no one from the pairs has better preffered option - it's called a stable match.</li>
+									</ul>
+									<img src="images/outcome.JPG" height="400" width="280">
+									<ul>
+									  <li>Supplier S4 and S5 were the most preferred suppliers to co-work with among the coordinaotrs.</li>
+									  <li>Due to randomness suppliers have a big difference of the most preffered coordinator to co-work with.</li>
+									  <li>Script needed to break 5 paris in order to assign parties to better options.</li>
+									  <li>Script matched all parites successfully ensuring stable match.</li>
+									</ul>
+								</div>
+							</section>
+
+						<!-- Four -->
+							<section id="four">
+								<div class="container">
+									<h3>Setup</h3>
+								</div>
+							</section>
+
+							<section id="five">
+								<div class="container">
+									<h3>Source Code</h3>
+									<p>You can view the source code: <a href="https://github.com/ArturSkrzeta/Full-Stack-Django-Web-App/tree/master/django_project">HERE</a></p>
+									<p>&nbsp</p>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<a href="https://arturskrzeta.github.io/" style="padding-bottom:10px;">Back to Portfolio</a>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
